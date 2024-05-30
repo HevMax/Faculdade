@@ -1,6 +1,6 @@
 # Atividades Desenvolvidas na Faculdade
 
-Neste repositório, você encontrará as atividades que desenvolvi junto à Alura, organizadas por linguagem de programação.
+Neste repositório, você encontrará as atividades que desenvolvi junto à Faculdade sob demanda dos meus professores, organizadas por linguagem de programação.
 
 ## Linguagens
 ![Java](https://img.shields.io/badge/Java-blue)
